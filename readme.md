@@ -46,7 +46,7 @@ Ensure the following are installed:
     npm install
     npm run dev
   ```
-  Access the frontend at: http://localhost:3000/
+  Access the frontend at: http://localhost:5173/
 
 4. **Setup Backend:**
 
@@ -64,7 +64,7 @@ Open a new terminal and navigate to the backend directory:
 Backend API: http://localhost:8000/
 
 6. **Access the Application:**:
-Visit http://localhost:3000/ to use the application.
+Visit http://localhost:5173/ to use the application.
 
 **Key Components:**
 
