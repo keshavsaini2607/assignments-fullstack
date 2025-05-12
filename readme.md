@@ -20,7 +20,7 @@ Database: MongoDB
 
 ## Installation
 
-https://www.loom.com/share/a15908a1a94b4c3f8666db1c7cbf9a2f?sid=449254c0-b7f2-4238-9f29-d681120ebfc9
+https://www.loom.com/share/bbfe23e0b53a499eb141a26947b66d7c?sid=f61d8ea2-ec08-47a8-aa23-7357fff80e5c
 
 ### Prerequisites
 Ensure the following are installed:
